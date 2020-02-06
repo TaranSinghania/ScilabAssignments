@@ -5,4 +5,9 @@ SRN  - PES1201800333
 CLASS- 4I
 
 Units uploaded:
-```Unit 1```
+# Unit 1
+```
+1. Gaussian elimination
+2. LU decomposition
+3. Gauss Jordan method for finding inverses(both methods)
+```
