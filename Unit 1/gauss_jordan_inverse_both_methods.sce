@@ -1,7 +1,7 @@
-clc
-funcprot(0)   //if variables are redefined do nothing
-format('v',10)
-matrix1 = input("Enter a matrix[NxN]: ")
+clc;
+funcprot(0);   //if variables are redefined do nothing
+format('v',10);
+matrix1 = input("Enter a matrix[NxN]: ");
 
 function gauss_jordan_inverse(matrix1)
     
