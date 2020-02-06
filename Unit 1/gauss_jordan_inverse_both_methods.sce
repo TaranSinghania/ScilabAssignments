@@ -47,10 +47,10 @@ function gauss_jordan_inverse_alternate(matrix1)
         augmented_matrix([j,lrow],:) = augmented_matrix([lrow,j],:);
         augmented_matrix(j,:) = augmented_matrix(j,:)/augmented_matrix(j,j);
         for i=index(j,:)
-            augmented_matrix(i,:) = augmented_matrix(i,:) - augmented_matrix(i,j)/augmented_matrix(j,j)*augmented_matrix(j,:)
+            augmented_matrix(i,:) = augmented_matrix(i,:) - augmented_matrix(i,j)/augmented_matrix(j,j)*augmented_matrix(j,:);
         end
     end
-    inverse = augmented_matrix(:,n+1:2*n)
+    inverse = augmented_matrix(:,n+1:2*n);
     disp(inverse,'The Inverse of the matrix through alternate method is ');
 endfunction
 
