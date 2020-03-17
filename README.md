@@ -11,3 +11,9 @@ Units uploaded:
 2. LU decomposition
 3. Gauss Jordan method for finding inverses(both methods)
 ```
+
+# Unit 2
+```
+1. Subspaces
+2. Span
+```
