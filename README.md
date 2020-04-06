@@ -20,5 +20,11 @@ Units uploaded:
 
 # Unit 3
 ```
-1. Best fit
+1. Least Square Projetion
 ```
+
+# Unit 4
+```
+1. Gram-Schmidt Orthogonalization
+2. Eigen Valeus and Vectors
+3. Rayleigh Power Method
