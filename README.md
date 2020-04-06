@@ -20,7 +20,7 @@ Units uploaded:
 
 # Unit 3
 ```
-1. Least Square Projetion
+1. Least Square Projection
 ```
 
 # Unit 4
